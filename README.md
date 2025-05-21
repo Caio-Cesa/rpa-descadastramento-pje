@@ -57,4 +57,6 @@ Este projeto é uma automação voltada para um ambiente específico e depende d
 ---
 
 📌 Projeto de uso interno e educativo.  
-Desenvolvido por [Caio César de Albuquerque](https://github.com/Caio-Cesa)
+**Desenvolvido por Caio Cesar de Albuquerque**  
+📫 [caioalbuquerquedev@gmail.com](mailto:caioalbuquerquedev@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/caio-cesar-for-hire) | [GitHub](https://github.com/Caio-Cesa)
